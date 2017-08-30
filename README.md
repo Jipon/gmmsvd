@@ -12,7 +12,6 @@
 #### 参考项目 :  
     https://github.com/NicolasHug/Surprise  
     https://github.com/stober/gmm 
- 
 #### 参考文献 ：
 1.Fused Matrix Factorization with Geographical and
 Social Influence in Location-Based Social Networks
