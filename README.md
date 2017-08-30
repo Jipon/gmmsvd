@@ -14,6 +14,6 @@
     https://github.com/stober/gmm 
 #### 参考文献 ：
 1.Fused Matrix Factorization with Geographical and
-Social Influence in Location-Based Social Networks
+Social Influence in Location-Based Social Networks  
 2.Capturing Geographical Influence
 in POI Recommendations
